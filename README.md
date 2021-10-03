@@ -21,3 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align= 'center'>
+     
+
+  
+  
+  
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.instagram.com/su_vera_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://blog.naver.com/rlatndus9911" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver"></a>
+
+
+</div>
