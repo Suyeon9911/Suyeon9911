@@ -1,9 +1,8 @@
-### 
 
-<div align="center">
-<h2> Hello, I'm SuyeonKim <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-</div>
+<h3> Hello, I'm SuyeonKim <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h3>
+
+
 
 
 ![Suyeon's github stats](https://github-readme-stats.vercel.app/api?username=Suyeon9911&show_icons=true)
