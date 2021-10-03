@@ -4,7 +4,7 @@
 
 <br/>
 
-  _🍎 Studying iOS .._
+  _Studying iOS ..🍎_
 <br/>
 
      
