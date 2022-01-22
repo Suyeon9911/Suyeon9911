@@ -7,7 +7,8 @@
   _Studying iOS ..🍎_
 <br/>
 
-     
+
+rlatndus9911@naver.com
 
 
   ![Suyeon's github stats](https://github-readme-stats.vercel.app/api?username=Suyeon9911&show_icons=true)
