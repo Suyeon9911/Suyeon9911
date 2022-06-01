@@ -1,6 +1,6 @@
 
 
-<h3> Hello, I'm SuyeonKim <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h3>
+<h3> Hello, I'm SuyeonKim <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
 
 <br/>
 
