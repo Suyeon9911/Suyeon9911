@@ -2,8 +2,7 @@
 ## I'm Suyeon Kim, iOS developer. 🍏
 
 > 안녕하세요. iOS 개발을 공부하고 있는 김수연입니다.
-<br>저는 다양한 경험을 기반으로 성장하고 있는 개발자입니다 😄 
-<br>여러 단체활동을 통해 사람들과 함께하는 것의 가치를 느끼고 있습니다 👀
+
 
 
 
@@ -19,7 +18,12 @@
 
 ### Project
 
-..공사중
+  |프로젝트 명|설명| 팀 구성 | 성과 | 링크 |
+  |:----:|:----:|:----:|:----:|:----:|
+  | Recordream (레코드림) | 기상 직후의 꿈 기록과 관리를 돕는 서비스 | 기획(2), 디자인(1), iOS(3), AOS(3), 서버(2) | App Store 출시 | [Repo](https://github.com/TeamRecorDream/RecorDream-iOS)
+  | Nobar (노바) | 홈텐딩을 위한 칵테일 레시피 제공 서비스 | 기획(2), 디자인(2), iOS(4), AOS(3), 서버(2) | SOPT 30기 AppJam 데모데이 시연 및 발표 | [Repo](https://github.com/TeamNobar/Nobar-iOS)|
+  | Havit (해빗) | 기억하고 싶은 모든 콘텐츠를 저장할 수 있는 서비스 | 기획(2), 디자인(3), iOS(4), AOS(4), 서버(2) | SOPT 29기 AppJam 대상 , App Store 출시 | [Repo](https://github.com/TeamHavit/Havit-iOS)|
+  | System Optimization Project | 고속도로 순찰 드론의 배치 및 운영 일정 최적화를 위한 모형 및 사례연구 | [System Optimization Lab](https://sites.google.com/view/jinilhan) | 한국경영과학회 경영과학지 제39권 논문 등재 및 우수논문상 수상 | [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002861044)
 
 
 
