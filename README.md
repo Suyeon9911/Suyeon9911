@@ -22,7 +22,7 @@
   |:----:|:----:|:----:|:----:|:----:|
   | Recordream (레코드림) | 기상 직후의 꿈 기록과 관리를 돕는 서비스 | 기획(2), 디자인(1), iOS(3), AOS(3), 서버(2) | App Store 출시 | [Repo](https://github.com/TeamRecorDream/RecorDream-iOS)
   | Nobar (노바) | 홈텐딩을 위한 칵테일 레시피 제공 서비스 | 기획(2), 디자인(2), iOS(4), AOS(3), 서버(2) | SOPT 30기 AppJam 데모데이 시연 및 발표 | [Repo](https://github.com/TeamNobar/Nobar-iOS)|
-  | Havit (해빗) | 기억하고 싶은 모든 콘텐츠를 저장할 수 있는 서비스 | 기획(2), 디자인(3), iOS(4), AOS(4), 서버(2) | SOPT 29기 AppJam 대상 , App Store 출시 | [Repo](https://github.com/TeamHavit/Havit-iOS)|
+  | Havit (해빗) | 기억하고 싶은 모든 콘텐츠를 저장할 수 있는 서비스 | 기획(2), 디자인(3), iOS(4), AOS(4), 서버(2) | SOPT 29기 AppJam 대상 , App Store 출시 | [Repo](https://github.com/TeamHavit/Havit-iOS)/ </br>[App Store](https://apps.apple.com/kr/app/havit-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99-%EC%95%B1-%ED%95%B4%EB%B9%97/id1607518014)|
   | System Optimization Project | 고속도로 순찰 드론의 배치 및 운영 일정 최적화를 위한 모형 및 사례연구 | [System Optimization Lab](https://sites.google.com/view/jinilhan) | 한국경영과학회 경영과학지 제39권 논문 등재 및 우수논문상 수상 | [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002861044)
 
 
