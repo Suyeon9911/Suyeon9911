@@ -78,5 +78,5 @@
 #### 🤖My Posting (22.12 ~)
 
 - [CS Posting Link](https://melodious-shroud-a04.notion.site/Computer-Science-Posting-22-12-9cad2c53cfff49ebaf1b3d0a0ac1eb28)
-- [Tistory]https://suvera.tistory.com/
+- [Tistory](https://suvera.tistory.com/)
 
